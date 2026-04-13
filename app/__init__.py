@@ -1,0 +1,2 @@
+"""Ammo flip tracker package."""
+

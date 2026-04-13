@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>收益统计</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="container">
+    <section class="summary-grid">
+      <article class="summary-card">
+        <span>总收益</span>
+        <strong id="sum-profit">0</strong>
+      </article>
+    </section>
+    <section class="panel">
+      <div class="panel-title-row">
+        <h2>每种子弹收益</h2>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table" id="profit-table">
+          <thead>
+            <tr>
+              <th>名称</th>
+              <th>等级</th>
+              <th>标签</th>
+              <th>库存</th>
+              <th>平均买入</th>
+              <th>平均卖出</th>
+              <th>收益</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+  <script src="./shared.js"></script>
+  <script src="./profit.js"></script>
+</body>
+</html>

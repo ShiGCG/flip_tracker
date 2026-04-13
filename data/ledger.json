@@ -1,0 +1,347 @@
+{
+  "ammo_types": [
+    {
+      "name": "5.7*28 SS90",
+      "level": 5,
+      "image": "default",
+      "break_even_ratio": 0.8679,
+      "tag": "赛季"
+    },
+    {
+      "name": "5.8*42 DBP10",
+      "level": 4,
+      "image": "default",
+      "break_even_ratio": 0.8675,
+      "tag": "日抛"
+    },
+    {
+      "name": "5.56*45 M855",
+      "level": 3,
+      "image": "default",
+      "break_even_ratio": 0.8656,
+      "tag": "赛季"
+    },
+    {
+      "name": "5.7*28 L191",
+      "level": 3,
+      "image": "default",
+      "break_even_ratio": 0.87,
+      "tag": "赛季"
+    },
+    {
+      "name": "5.8*42 DVP88",
+      "level": 3,
+      "image": "default",
+      "break_even_ratio": 0.87,
+      "tag": "长期"
+    }
+  ],
+  "buy_records": [
+    {
+      "record_id": "5b242812-8280-41df-82ba-e0ac0b53a70f",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 200,
+      "unit_price": 4962.0,
+      "created_at": "2026-04-12 02:21:22"
+    },
+    {
+      "record_id": "093fe408-c996-4ddc-8bb0-3771f2bd0661",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 481,
+      "unit_price": 5027.0,
+      "created_at": "2026-04-12 02:21:33"
+    },
+    {
+      "record_id": "72fa063c-141c-4f95-97f7-a13e926cc518",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 60,
+      "unit_price": 4962.0,
+      "created_at": "2026-04-12 02:21:49"
+    },
+    {
+      "record_id": "f9042c31-f7dd-431e-b2a0-ee649cfc3b33",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 3124,
+      "unit_price": 5027.0,
+      "created_at": "2026-04-12 02:22:03"
+    },
+    {
+      "record_id": "89833569-5673-4b6b-84a4-29d4665b7c53",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 735,
+      "unit_price": 4962.0,
+      "created_at": "2026-04-12 02:22:16"
+    },
+    {
+      "record_id": "e078d4f4-9914-45b2-aadd-f526070f5856",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 998,
+      "unit_price": 5092.0,
+      "created_at": "2026-04-12 02:22:26"
+    },
+    {
+      "record_id": "a3f09cea-22fd-469b-9e6c-3892a75a89b4",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 808,
+      "unit_price": 5092.0,
+      "created_at": "2026-04-12 02:22:34"
+    },
+    {
+      "record_id": "8112a4d5-a4cb-4554-88bb-1f74a88797ad",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 97,
+      "unit_price": 5092.0,
+      "created_at": "2026-04-12 02:22:44"
+    },
+    {
+      "record_id": "7ed405e6-f3d5-4223-898e-db4510ddbb57",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 260,
+      "unit_price": 5027.0,
+      "created_at": "2026-04-12 02:22:53"
+    },
+    {
+      "record_id": "ff9175be-d30d-4670-8277-afaa64ad3709",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 71,
+      "unit_price": 5092.0,
+      "created_at": "2026-04-12 02:23:02"
+    },
+    {
+      "record_id": "d0a06b86-b1ed-4921-81a8-6bb8bd81aefb",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 24,
+      "unit_price": 4897.0,
+      "created_at": "2026-04-12 02:23:13"
+    },
+    {
+      "record_id": "3b2054fa-891d-407f-905f-f02d00a488af",
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "quantity": 4,
+      "unit_price": 4897.0,
+      "created_at": "2026-04-12 02:23:23"
+    },
+    {
+      "record_id": "91d1f2af-95a7-4e8a-a399-368ff8f078b1",
+      "ammo_name": "5.56*45 M855",
+      "level": 3,
+      "quantity": 14860,
+      "unit_price": 406.0,
+      "created_at": "2026-04-12 02:33:37"
+    },
+    {
+      "record_id": "f05da907-03da-415b-bc76-cd17bc77d311",
+      "ammo_name": "5.8*42 DVP88",
+      "level": 3,
+      "quantity": 5180,
+      "unit_price": 403.0,
+      "created_at": "2026-04-12 03:06:33"
+    },
+    {
+      "record_id": "81949c88-f314-4c54-b277-4659c20d9c35",
+      "ammo_name": "5.7*28 L191",
+      "level": 3,
+      "quantity": 10700,
+      "unit_price": 405.0,
+      "created_at": "2026-04-12 03:10:07"
+    },
+    {
+      "record_id": "ccdaf375-cd3f-4f0e-8e4b-f963607edc79",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 364,
+      "unit_price": 1848.0,
+      "created_at": "2026-04-12 03:35:41"
+    },
+    {
+      "record_id": "10bcd44c-a12c-4a34-9ef4-519037a96f15",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 120,
+      "unit_price": 1813.0,
+      "created_at": "2026-04-12 03:35:56"
+    },
+    {
+      "record_id": "27118981-59ac-46d9-88d3-b6f114c8e772",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 15,
+      "unit_price": 1813.0,
+      "created_at": "2026-04-12 03:36:08"
+    },
+    {
+      "record_id": "a4eba833-f949-4e2f-b576-9fc28fd747ba",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 794,
+      "unit_price": 1883.0,
+      "created_at": "2026-04-12 03:36:18"
+    },
+    {
+      "record_id": "76e0e7be-8af5-4810-b501-31c2e25f5021",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 2787,
+      "unit_price": 1883.0,
+      "created_at": "2026-04-12 03:36:27"
+    },
+    {
+      "record_id": "7af2f58c-ad78-4231-9ebd-ed8b62260d86",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 387,
+      "unit_price": 1918.0,
+      "created_at": "2026-04-12 03:36:39"
+    },
+    {
+      "record_id": "13984fda-d49b-4a6e-b1de-5a56d34c9045",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 814,
+      "unit_price": 1918.0,
+      "created_at": "2026-04-12 03:36:46"
+    },
+    {
+      "record_id": "b0bb1c82-20d0-41d4-a3a8-95d6fb03f365",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 859,
+      "unit_price": 1848.0,
+      "created_at": "2026-04-12 03:36:58"
+    },
+    {
+      "record_id": "e487852d-60af-4f88-af06-8054322a8a85",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 100,
+      "unit_price": 1813.0,
+      "created_at": "2026-04-12 03:37:08"
+    },
+    {
+      "record_id": "5e737228-df28-4f41-bf76-14ea515d80dd",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 38,
+      "unit_price": 1603.0,
+      "created_at": "2026-04-12 03:37:24"
+    },
+    {
+      "record_id": "027bc29f-e066-4f6f-b9b2-2cd9641c915c",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 1761,
+      "unit_price": 1883.0,
+      "created_at": "2026-04-12 03:37:34"
+    },
+    {
+      "record_id": "2849b9ae-7ba8-40cf-8371-9da0108e61ee",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 160,
+      "unit_price": 1848.0,
+      "created_at": "2026-04-12 03:37:44"
+    },
+    {
+      "record_id": "ebce4ce5-b555-4b38-98c8-afc6e17e479c",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 105,
+      "unit_price": 1848.0,
+      "created_at": "2026-04-12 03:37:50"
+    },
+    {
+      "record_id": "9ebfad1d-30ff-48a9-a364-a20735bac17a",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 36,
+      "unit_price": 1778.0,
+      "created_at": "2026-04-12 03:38:09"
+    },
+    {
+      "record_id": "dded95af-8ae8-4048-bde9-917d7297c28a",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 30,
+      "unit_price": 1848.0,
+      "created_at": "2026-04-12 03:38:16"
+    },
+    {
+      "record_id": "e936615f-3999-48a4-bf91-bd31bd11e306",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 30,
+      "unit_price": 1813.0,
+      "created_at": "2026-04-12 03:38:24"
+    }
+  ],
+  "sell_records": [
+    {
+      "record_id": "209a351b-2727-42cc-a754-a43502667b71",
+      "ammo_name": "5.7*28 L191",
+      "level": 3,
+      "quantity": 1361,
+      "unit_price": 480.0,
+      "created_at": "2026-04-12 12:07:33"
+    },
+    {
+      "record_id": "26edf8ed-3017-41b3-9bae-126268618864",
+      "ammo_name": "5.7*28 L191",
+      "level": 3,
+      "quantity": 2671,
+      "unit_price": 480.0,
+      "created_at": "2026-04-12 12:14:17"
+    },
+    {
+      "record_id": "60ced7ce-2b9b-4961-8807-9bf62c8975b9",
+      "ammo_name": "5.7*28 L191",
+      "level": 3,
+      "quantity": 9,
+      "unit_price": 480.0,
+      "created_at": "2026-04-12 12:15:48"
+    },
+    {
+      "record_id": "5b331139-aea6-4799-89e8-3c18b22dee49",
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "quantity": 1433,
+      "unit_price": 2163.0,
+      "created_at": "2026-04-12 12:28:11"
+    },
+    {
+      "record_id": "548cfb40-2bfc-4d77-bf05-546436a7f125",
+      "ammo_name": "5.7*28 L191",
+      "level": 3,
+      "quantity": 2812,
+      "unit_price": 479.0,
+      "created_at": "2026-04-12 12:36:41"
+    },
+    {
+      "record_id": "8cb266ec-8f02-4cd8-b008-bc5ca7eee18a",
+      "ammo_name": "5.7*28 L191",
+      "level": 3,
+      "quantity": 2409,
+      "unit_price": 480.0,
+      "created_at": "2026-04-12 12:38:48"
+    },
+    {
+      "record_id": "69eb017b-4065-42db-9ce7-5225b5033d06",
+      "ammo_name": "5.7*28 L191",
+      "level": 3,
+      "quantity": 1438,
+      "unit_price": 480.0,
+      "created_at": "2026-04-12 12:41:09"
+    }
+  ]
+}

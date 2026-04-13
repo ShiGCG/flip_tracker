@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-04-12 12:41:09",
+  "total_realized_profit": 144122.0,
+  "items": [
+    {
+      "ammo_name": "5.8*42 DBP10",
+      "level": 4,
+      "inventory": 6967,
+      "avg_buy": 1877.7542,
+      "avg_sell": 2163.0,
+      "realized_profit": -2866.0
+    },
+    {
+      "ammo_name": "5.8*42 DVP88",
+      "level": 3,
+      "inventory": 5180,
+      "avg_buy": 403.0,
+      "avg_sell": 0.0,
+      "realized_profit": 0.0
+    },
+    {
+      "ammo_name": "5.7*28 L191",
+      "level": 3,
+      "inventory": 0,
+      "avg_buy": 405.0,
+      "avg_sell": 479.7372,
+      "realized_profit": 146988.0
+    },
+    {
+      "ammo_name": "5.56*45 M855",
+      "level": 3,
+      "inventory": 14860,
+      "avg_buy": 406.0,
+      "avg_sell": 0.0,
+      "realized_profit": 0.0
+    },
+    {
+      "ammo_name": "5.7*28 SS90",
+      "level": 5,
+      "inventory": 6862,
+      "avg_buy": 5035.7431,
+      "avg_sell": 0.0,
+      "realized_profit": 0.0
+    }
+  ]
+}
